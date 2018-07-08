@@ -4,6 +4,6 @@
 
 ![](./knimeCSVsample.png)
 
-knime workflow 下载: [practicalDA_01.knar](https://raw.github.com/havef/practicalDA/practicalDA_01.knar)
+knime workflow 下载: [practicalDA_01.knar](https://github.com/HaveF/practicalDA/raw/master/practicalDA_01.knar)
 
 
