@@ -11,3 +11,10 @@
 knime workflow 下载: [practicalDA_01.knar](https://github.com/HaveF/practicalDA/raw/master/practicalDA_01.knar)
 
 
+2. 类似SQL的select操作, 下载实践一下:
+
+![](./selectSimilarOps.png)
+
+knime workflow 下载: [practicalDA_02.knar](https://github.com/HaveF/practicalDA/raw/master/practicalDA_02.knar)
+
+
