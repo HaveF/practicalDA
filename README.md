@@ -17,4 +17,8 @@ knime workflow 下载: [practicalDA_01.knar](https://github.com/HaveF/practicalD
 
 knime workflow 下载: [practicalDA_02.knar](https://github.com/HaveF/practicalDA/raw/master/practicalDA_02.knar)
 
+3. rule engine and Group by
+
+knime workflow 下载: [practicalDA_03.knar](https://github.com/HaveF/practicalDA/raw/master/practicalDA_03.knar)
+
 
