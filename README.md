@@ -27,14 +27,20 @@ knime workflow 下载: [practicalDA_03.knar](https://github.com/HaveF/practicalD
 6. 泰坦尼克沉船数据分析
 
 a. 之一
+
 ![](./practicalDA_06_01.png)
+
 knime workflow 下载: [practicalDA_06_01.knar](https://github.com/HaveF/practicalDA/raw/master/practicalDA_06_01.knar)
 
 b. 之二 决策树
+
 ![](./practicalDA_06_02.png)
+
 knime workflow 下载: [practicalDA_06_02.knar](https://github.com/HaveF/practicalDA/raw/master/practicalDA_06_02.knar)
 
 7. 两种从数据库中获取数据的方法
+
 ![](./07database.png)
+
 knime workflow 下载: [practicalDA_07.knar](https://github.com/HaveF/practicalDA/raw/master/practicalDA_07.knar)
 
