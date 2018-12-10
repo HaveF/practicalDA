@@ -44,3 +44,6 @@ knime workflow 下载: [practicalDA_06_02.knar](https://github.com/HaveF/practic
 
 knime workflow 下载: [practicalDA_07.knar](https://github.com/HaveF/practicalDA/raw/master/practicalDA_07.knar)
 
+8. 练习解析 JSON 与 XML
+
+knime workflow 下载: [practicalDA_08.knar](https://github.com/HaveF/practicalDA/raw/master/practicalDA_08.knar)
