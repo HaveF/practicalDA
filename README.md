@@ -47,3 +47,9 @@ knime workflow 下载: [practicalDA_07.knar](https://github.com/HaveF/practicalD
 8. 练习解析 JSON 与 XML
 
 knime workflow 下载: [practicalDA_08.knar](https://github.com/HaveF/practicalDA/raw/master/practicalDA_08.knar)
+
+9. 练习 Binning/分桶
+
+![](./09binning.png)
+
+knime workflow 下载: [practicalDA_09.knar](https://github.com/HaveF/practicalDA/raw/master/practicalDA_09.knar)
