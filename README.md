@@ -1,3 +1,8 @@
+
+>> 注: 尽管这是老版本的 KNIME 创建的 workflow, 但它仍然能够正常运行.
+>> 更多更新的示例 workflow 在路上, 敬请期待(2022/03/22)
+
+
 # 数据分析指北
 todo: toc
 todo: how to useissue 
